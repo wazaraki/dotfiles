@@ -52,6 +52,6 @@
 ! URxvt Customization and Optimization with Xresources
 ! http://www.askapache.com/linux/rxvt-xresources.html
 URxvt*scrollstyle: plain
-URxvt*fading:  10
-URxvt.font: xft:dejavusansmono:size=10
+URxvt*fading:  20
+URxvt.font: xft:inconsolata:size=11
 URxvt.letterSpace: -1
